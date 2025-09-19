@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evidence Action - Nutrition and Safe Water</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        h1 {
+            color: #0056b3;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://en.wikipedia.org/wiki/Evidence_Action#/media/File:Evidence-action-vectorized.svg" alt="Evidence Action Banner">
+        <h1>Welcome to Evidence Action</h1>
+        <p>Evidence Action is a non-profit organization that scales proven interventions to improve the lives of millions. Our work focuses on two key areas: **nutrition** and **safe water**.</p>
+        <h2>Our Focus Areas</h2>
+        <h3>Nutrition</h3>
+        <p>We work to deliver evidence-based nutrition programs, such as deworming for school-aged children, to improve health and educational outcomes. By targeting neglected diseases, we help ensure children can attend school and learn effectively.</p>
+        <h3>Safe Water</h3>
+        <p>Our safe water programs, like our dispenser-based chlorination initiatives, provide clean drinking water to communities. This simple, cost-effective solution prevents waterborne diseases and saves lives.</p>
+        <p>To learn more, visit our official website.</p>
+    </div>
+</body>
+</html>
